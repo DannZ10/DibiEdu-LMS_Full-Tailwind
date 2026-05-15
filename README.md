@@ -22,7 +22,7 @@ Struktur pengerjaannya saya pisah jadi beberapa halaman statis:
 3. **`/about.html`**: Halaman profil, saya pakai *split layout* (gambar di kiri, teks di kanan) biar lebih enak dibaca di desktop.
 4. **`/contact.html`**: Ada info kontak dan form isian. Form-nya udah dikasih efek *focus* (garis input berubah warna pas diklik) biar sesuai sama *best practice* UI/UX.
 
-## 🎨 Daftar Warna (*Color Palette*)
+#### 🎨 Daftar Warna (*Color Palette*)
 * `--bg-main`: Background warna putih bersih.
 * `--text-primary`: Buat judul dan teks utama (warna gelap/hitam kebiruan).
 * `--text-secondary`: Buat paragraf pendukung biar mata nggak gampang capek.
